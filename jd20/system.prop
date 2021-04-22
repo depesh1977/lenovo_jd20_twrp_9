@@ -1,0 +1,11 @@
+ro.product.brand=lenovo
+ro.product.name=jd20
+ro.product.device=jd20
+ro.product.mod_device=jd20_global
+ro.build.product=jd20
+ro.treble.enabled=true
+sys.usb.rndis.func.name=rndis_bam
+sys.usb.rmnet.func.name=rmnet_bam
+#
+ro.product.board=sdm730
+ro.board.platform=sdm730
